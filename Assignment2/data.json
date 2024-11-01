@@ -1,0 +1,1 @@
+{"students": {"S001": {"name": "Sami", "age": 21, "address": "Dhaka", "student_id": "S001", "courses": ["Chemistry"], "grades": {"Chemistry": "A+"}}}, "courses": {"CHEM11": {"course_name": "Chemistry", "course_code": "CHEM11", "instructor": "Usa Roy", "students": ["S001"]}}}
